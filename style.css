@@ -135,7 +135,6 @@ section.topo-do-site .flex {
 }
 
 .interface .logo img {
-    border: 2px outset aquamarine;
     border-radius: 230px;
 }
 
@@ -336,4 +335,5 @@ footer .line-footer {
     100% {
         top: 30px;
     }
+
 }
